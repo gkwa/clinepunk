@@ -8,7 +8,7 @@ humanfriendly==10.0
 pip-tools==6.4.0
 pipdeptree==2.2.1
 pytest==6.2.4
-Sphinx==1.8.5
+Sphinx==1.8.6
 tox==3.14.0
 twine==1.14.0
 watchdog==0.9.0
