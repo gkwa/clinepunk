@@ -3,7 +3,7 @@ black==21.12b0
 bump2version==0.5.11
 coverage==4.5.4
 diskcache==5.4.0
-flake8==3.7.8
+flake8==3.9.2
 humanfriendly==10.0
 pip-tools==6.4.0
 pipdeptree==2.2.1
