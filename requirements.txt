@@ -18,7 +18,7 @@ humanfriendly==10.0
     # via clinepunk (setup.py)
 idna==3.10
     # via requests
-requests==2.32.3
+requests==2.33.0
     # via clinepunk (setup.py)
 urllib3==2.2.3
     # via requests
